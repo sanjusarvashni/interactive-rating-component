@@ -76,7 +76,7 @@ body{
 
 
 
-.rating-component{
+.msg-component{
     background-color: hsl(213, 19%, 18%);
     width: 400px;
     height: 50vh;
@@ -89,11 +89,11 @@ body{
     gap: 30px;
 }
 
-.rating-component p{
+.msg-component p{
     text-align: center;
     
 }
-.rating-component h4{
+.msg-component h4{
     border-radius: 20px;
     background-color: hsl(0, 1%, 29%) ;
     height: 30px;
@@ -102,12 +102,12 @@ body{
    padding: 10px;
    
 }
-.rating-component h2{
+.msg-component h2{
     color: white;
     font-size: 2rem ;
 }
 
-.rating-component p{
+.msg-component p{
     color: hsl(217, 12%, 63%) ;
 }
 
